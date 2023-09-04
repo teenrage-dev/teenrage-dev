@@ -71,5 +71,4 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
 <br clear="both">
 
 ![snake gif](https://github.com/teenrage-dev/teenrage-dev/blob/output/github-contribution-grid-snake.gif)
-
-###
+<img src="https://raw.githubusercontent.com/teenrage-dev/teenrage-dev/output/snake.svg" alt="Snake animation" />
