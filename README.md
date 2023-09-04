@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/7xyici.gif"  />
 
 ###
 
@@ -42,10 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/7xyici.gif"  />
 
 ###
 
