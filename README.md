@@ -60,7 +60,7 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
 #
 
 ### 📊 Stats
-![teenrage-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenrage-dev&show_icons=true&theme=gruvbox)
+![teenrage-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenrage-dev&show_icons=true)
 
 #
 
