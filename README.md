@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Renat and I'm a Front end developer, from Ukraine</h2>
+# <h2 align="left">Hi 👋! My name is Renat and I'm a Front end developer, from Ukraine</h2>
+
+I'm a skilled developer, specializing in mobile app development with Flutter and proficient in various web frameworks. I work on projects related to automotive logistics, creating applications for dealers and surveyors to streamline processes such as data handling, camera integration, and data viewing. My passion lies in Frontend development, where I excel in crafting logical components and maintaining code clarity. I take pride in my ability to continuously seek growth, and I've successfully secured a position in a forward-thinking company that fuels my appetite for progress.
 
 ###
 
