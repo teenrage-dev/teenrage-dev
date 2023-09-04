@@ -4,8 +4,7 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
 
 ---
 
-### 🧰 Languages and Tools
-
+### 🧰 Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -39,7 +38,7 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
 
 #
 
-###
+### 🌐 Social Media
 
 <div align="left">
   <a href="https://discordapp.com/users/314741377466499073" target="_blank">
@@ -58,7 +57,8 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
 
 #
 
-###
+### 📊 Stats
+![teenrage-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenrage-dev&show_icons=true&theme=gruvbox)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teenrage-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
