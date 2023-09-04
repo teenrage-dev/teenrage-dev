@@ -2,17 +2,6 @@
 
 I'm a skilled developer, specializing in mobile app development with Flutter and proficient in various web frameworks. I work on projects related to automotive logistics, creating applications for dealers and surveyors to streamline processes such as data handling, camera integration, and data viewing. My passion lies in Frontend development, where I excel in crafting logical components and maintaining code clarity. I take pride in my ability to continuously seek growth, and I've successfully secured a position in a forward-thinking company that fuels my appetite for progress.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teenrage-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teenrage-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.ibb.co/ypQR38d/pngaaa-com-8085740.png"  />
-
 ---
 
 ### 🧰 Languages and Tools
@@ -48,6 +37,8 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
 </div>
 
+#
+
 ###
 
 <div align="left">
@@ -64,6 +55,17 @@ I'm a skilled developer, specializing in mobile app development with Flutter and
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+#
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teenrage-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teenrage-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+#
 
 ###
 
