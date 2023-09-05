@@ -1,6 +1,6 @@
 # 🧑‍💻 teenrage
 
-I'm a skilled developer, specializing in mobile app development with Flutter and proficient in various web frameworks. I work on projects related to automotive logistics, creating applications for dealers and surveyors to streamline processes such as data handling, camera integration, and data viewing. My passion lies in Frontend development, where I excel in crafting logical components and maintaining code clarity. I take pride in my ability to continuously seek growth, and I've successfully secured a position in a forward-thinking company that fuels my appetite for progress.
+I'm a skilled developer, specializing in mobile app development with Flutter and proficient in various web frameworks. I work on projects related to automotive logistics, creating applications for dealers and surveyors to streamline processes such as data handling, camera integration, and data viewing. My passion lies in Frontend development, where I excel in crafting logical components and maintaining code clarity. In addition to my work with mobile app development and web frameworks, I've also had the privilege of contributing to the development of the Pi platform using Angular and leveraging the powerful UI library, Kendo. This experience has further enriched my skill set and allowed me to deliver high-quality user interfaces for enhanced user experiences. I take pride in my ability to continuously seek growth, and I've successfully secured a position in a forward-thinking company that fuels my appetite for progress.
 
 ---
 
